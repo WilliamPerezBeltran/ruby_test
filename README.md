@@ -16,7 +16,7 @@ $ "rewoP !gnimlehwrevO"
 - Must reorder the words into correct place
 
 ```bash
-$ "La vida es bella"
+$ "Power Overwhelming!"
 ```
 
 ### Clon repo
